@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MegaEngineRing 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-08 13:25+0500\n"
-"PO-Revision-Date: 2025-06-08 15:47+0000\n"
+"PO-Revision-Date: 2025-07-09 05:01+0000\n"
 "Last-Translator: AlexusYT <93870232+AlexusYT@users.noreply.github.com>\n"
 "Language-Team: English (United States) <https://hosted.weblate.org/projects/"
-"megaenginering/ui-strings/en_US/>\n"
+"kwasarengine/ui-strings/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: mvp/treeObjectWindow/ViewObjectsTree.cpp:55
 msgid "ObjectName"
@@ -60,60 +60,60 @@ msgstr ""
 
 #: mvp/treeObjectWindow/ViewObjectsTree.h:60
 msgid "TreeViewTool"
-msgstr ""
+msgstr "Objects tree"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:62
 msgid "SceneProperties"
-msgstr ""
+msgstr "Scene"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:66
 msgid "NodeProperties"
-msgstr ""
+msgstr "Node"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:68
 msgid "NodeName"
-msgstr ""
+msgstr "Name"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:70
 msgid "NodeTransformation"
-msgstr ""
+msgstr "Transformation"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:108
 msgid "RemoveExtension"
-msgstr ""
+msgstr "Remove"
 
 #. translators: instruction for removing an element (extension, object, etc)
 #: mvp/objectProperties/ViewObjectProperties.cpp:114
 msgid "Hold for 0.5 sec to confirm removing"
-msgstr ""
+msgstr "Hold for 0.5 sec to confirm removing"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:171
 msgid "NodePosition"
-msgstr ""
+msgstr "Position"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:179
 msgid "NodeOrientation"
-msgstr ""
+msgstr "Orientation"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:181
 msgid "Quaternion"
-msgstr ""
+msgstr "Quaternion"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:181
 msgid "XYZ Euler"
-msgstr ""
+msgstr "Euler Angles (XYZ)"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:181
 msgid "Axis Angle"
-msgstr ""
+msgstr "Axis-Angle"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:247
 msgid "Scale"
-msgstr ""
+msgstr "Scale"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:255 I18N.cpp:105
 msgid "MeshExtension"
-msgstr ""
+msgstr "Mesh"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:258
 msgid "Select mesh to use"
@@ -121,11 +121,11 @@ msgstr ""
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:263
 msgid "MeshNone"
-msgstr ""
+msgstr "None"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:286 I18N.cpp:104
 msgid "LightExtension"
-msgstr ""
+msgstr "Light"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:291
 msgid "Select light source to use"
@@ -133,11 +133,11 @@ msgstr ""
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:296
 msgid "LightNone"
-msgstr ""
+msgstr "None"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:319
 msgid "NewLight"
-msgstr ""
+msgstr "Create"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:320
 msgid "LightUnnamed"
@@ -145,24 +145,24 @@ msgstr "Unnamed"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:324
 msgid "DuplicateLight"
-msgstr ""
+msgstr "Duplicate"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:327
 msgid "LightCopy"
-msgstr ""
+msgstr "Copy"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:331
 msgid "RemoveLight"
-msgstr ""
+msgstr "Remove"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:332
 #: mvp/onlineImport/ViewOnlineImport.cpp:107
 msgid "Not implemented yet"
-msgstr ""
+msgstr "Not implemented yet"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:343
 msgid "Light source settings"
-msgstr ""
+msgstr "Light source settings"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:357
 msgid "LightName"
@@ -170,56 +170,56 @@ msgstr "Name"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:360
 msgid "LightColor"
-msgstr ""
+msgstr "Color"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:364
 msgid "LightIntensity"
-msgstr ""
+msgstr "Intensity"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:370
 msgid "LightTypeDirectional"
-msgstr ""
+msgstr "Directional"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:370
 msgid "LightTypePoint"
-msgstr ""
+msgstr "Point"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:370
 msgid "LightTypeSpot"
-msgstr ""
+msgstr "Spotlight"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:373
 msgid "LightType"
-msgstr ""
+msgstr "Type"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:381
 msgid "LightRange"
-msgstr ""
+msgstr "Range"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:381
 msgid "LightRangeInfinite"
-msgstr ""
+msgstr "Infinite"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:381
 #, c-format
 msgid "%0.3f m"
-msgstr ""
+msgstr "%0.3f m"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:397
 msgid "Inner Cone"
-msgstr ""
+msgstr "Inner Cone"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:405
 msgid "Outer Cone"
-msgstr ""
+msgstr "Outer Cone"
 
 #: mvp/objectProperties/ViewObjectProperties.h:71
 msgid "ObjectPropertiesTool"
-msgstr ""
+msgstr "Properties"
 
 #: mvp/projectExplorer/ViewProjectExplorer.h:47
 msgid "ProjectExplorerTool"
-msgstr ""
+msgstr "Explorer"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:73
 msgid "SceneAdd"
