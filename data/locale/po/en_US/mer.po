@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MegaEngineRing 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-08 13:25+0500\n"
-"PO-Revision-Date: 2025-07-09 05:01+0000\n"
+"PO-Revision-Date: 2025-10-14 08:15+0000\n"
 "Last-Translator: AlexusYT <93870232+AlexusYT@users.noreply.github.com>\n"
 "Language-Team: English (United States) <https://hosted.weblate.org/projects/"
 "kwasarengine/ui-strings/en_US/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: mvp/treeObjectWindow/ViewObjectsTree.cpp:55
 msgid "ObjectName"
@@ -51,12 +51,12 @@ msgstr "Left click to reparent to the \"{}\".\n"
 #. translators: root element in reparent tooltip in an object tree window
 #: mvp/treeObjectWindow/ViewObjectsTree.cpp:109
 msgid "Root of the scene"
-msgstr ""
+msgstr "Root of the scene"
 
 #. translators: second line in reparent tooltip in an object tree window
 #: mvp/treeObjectWindow/ViewObjectsTree.cpp:118
 msgid "Right click to cancel."
-msgstr ""
+msgstr "Right click to cancel."
 
 #: mvp/treeObjectWindow/ViewObjectsTree.h:60
 msgid "TreeViewTool"
@@ -117,7 +117,7 @@ msgstr "Mesh"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:258
 msgid "Select mesh to use"
-msgstr ""
+msgstr "Select mesh to use"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:263
 msgid "MeshNone"
@@ -129,7 +129,7 @@ msgstr "Light"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:291
 msgid "Select light source to use"
-msgstr ""
+msgstr "Select light source to use"
 
 #: mvp/objectProperties/ViewObjectProperties.cpp:296
 msgid "LightNone"
@@ -223,219 +223,219 @@ msgstr "Explorer"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:73
 msgid "SceneAdd"
-msgstr ""
+msgstr "Add"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:74
 msgid "SceneAddBlocking"
-msgstr ""
+msgstr "Blocks"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:75
 msgid "SceneAddBlockPlane"
-msgstr ""
+msgstr "Plane"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:76
 msgid "SceneAddBlockCube"
-msgstr ""
+msgstr "Cube"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:77
 msgid "SceneAddBlockSphere"
-msgstr ""
+msgstr "Sphere"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:80
 msgid "SceneAddModel"
-msgstr ""
+msgstr "Model"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:82
 msgid "SceneAddFromFile"
-msgstr ""
+msgstr "From file…"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:86
 msgid "SceneAddFromFileTitle"
-msgstr ""
+msgstr "Choose file"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:90
 msgid "SceneAddFromSketchfab"
-msgstr ""
+msgstr "Form Sketchfab…"
 
 #: mvp/sceneEditor/ViewSceneEditor.cpp:91
 msgid "SceneAddFromFavorites"
-msgstr ""
+msgstr "From Favorites…"
 
 #: mvp/prefabEditor/ViewPrefabEditor.cpp:160
 msgid "PrefabEditor"
-msgstr ""
+msgstr "Prefab Editor"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:93
 msgid "In order to use this feature, you need to login to Sketchfab"
-msgstr ""
+msgstr "In order to use this feature, you need to login to Sketchfab"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:94
 msgid "Website here:"
-msgstr ""
+msgstr "Website here:"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:99
 msgid "Login using:"
-msgstr ""
+msgstr "Login using:"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:101
 msgid "LoginWithUsernamePassword"
-msgstr ""
+msgstr "Username and password"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:103
 msgid "Use username and password from your Sketchfab.com account"
-msgstr ""
+msgstr "Use username and password from your Sketchfab.com account"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:105
 msgid "LoginWithAPIToken"
-msgstr ""
+msgstr "API Token"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:109
 msgid "Use API token from your Sketchfab.com account"
-msgstr ""
+msgstr "Use API token from your Sketchfab.com account"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:112
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:112
 msgid "Username cannot be empty"
-msgstr ""
+msgstr "Username cannot be empty"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:114
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:114
 msgid "Password cannot be empty"
-msgstr ""
+msgstr "Password cannot be empty"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:127
 msgid "In progress..."
-msgstr ""
+msgstr "In progress..."
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:131
 msgid "ActionLogin"
-msgstr ""
+msgstr "Log in"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:183
 msgid "Author name"
-msgstr ""
+msgstr "Author name"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:189
 msgid "Collection (uid)"
-msgstr ""
+msgstr "Collection (uid)"
 
 #. translators: "Faces" is the polygons (triangles), not human face.
 #: mvp/onlineImport/ViewOnlineImport.cpp:199
 #, c-format
 msgid "Min Faces: %d"
-msgstr ""
+msgstr "Min Faces: %d"
 
 #. translators: "Faces" is the polygons (triangles), not human face.
 #: mvp/onlineImport/ViewOnlineImport.cpp:207
 #, c-format
 msgid "Max Faces: %d"
-msgstr ""
+msgstr "Max Faces: %d"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:215
 msgid "Staff Picked"
-msgstr ""
+msgstr "Staff Picked"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:234
 msgid "Not recommended to change"
-msgstr ""
+msgstr "Not recommended to change"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:236
 msgid "Downloadable"
-msgstr ""
+msgstr "Downloadable"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:241
 msgid "FilterMaterial"
-msgstr ""
+msgstr "Material"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:257
 msgid "Not yet supported by the engine"
-msgstr ""
+msgstr "Not yet supported by the engine"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:259
 msgid "FilterAnimated"
-msgstr ""
+msgstr "Animated"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:264
 msgid "FilterHasSound"
-msgstr ""
+msgstr "Has sound"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:269
 msgid "FilterRigged"
-msgstr ""
+msgstr "Rigged"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:288
 msgid "Enter search keywords"
-msgstr ""
+msgstr "Enter search keywords"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:410
 msgid "Search filters"
-msgstr ""
+msgstr "Search filters"
 
 #: mvp/onlineImport/ViewOnlineImport.h:130
 msgid "SearchWindowTool"
-msgstr ""
+msgstr "Models search"
 
 #: mvp/scenePreview/ViewScenePreview.h:76
 msgid "ScenePreviewTool"
-msgstr ""
+msgstr "Scene preview"
 
 #: mvp/editor/Editor.cpp:204
 msgid "No opened tools in this workspace"
-msgstr ""
+msgstr "There is no opened tools in this workspace"
 
 #: mvp/editor/Editor.cpp:206
 msgid "Select a tool to open..."
-msgstr ""
+msgstr "Select a tool to open..."
 
 #: mvp/editor/Editor.cpp:238
 msgid "Open or close the workspace tools"
-msgstr ""
+msgstr "Open or close the workspace tools"
 
 #: mvp/editor/EditorUi.cpp:119
 msgid "MenuFile"
-msgstr ""
+msgstr "File"
 
 #: mvp/editor/EditorUi.cpp:122
 msgid "MenuExit"
-msgstr ""
+msgstr "Exit"
 
 #: mvp/editor/EditorUi.cpp:126
 msgid "MenuEdit"
-msgstr ""
+msgstr "Edit"
 
 #: mvp/editor/EditorUi.cpp:127
 msgid "MenuSettings..."
-msgstr ""
+msgstr "Settings..."
 
 #: mvp/editor/EditorUi.cpp:131
 msgid "MenuWindow"
-msgstr ""
+msgstr "Window"
 
 #: mvp/editor/EditorUi.cpp:164
 msgid "MenuHelp"
-msgstr ""
+msgstr "Help"
 
 #: mvp/editor/EditorUi.cpp:165
 msgid "Open website"
-msgstr ""
+msgstr "Open website"
 
 #: mvp/editor/EditorUi.cpp:167
 msgid "Open manual"
-msgstr ""
+msgstr "Open manual"
 
 #: mvp/editor/EditorUi.cpp:172
 msgid "MenuAbout..."
-msgstr ""
+msgstr "About…"
 
 #: mvp/editor/settings/ViewSettingsWindow.cpp:68
 msgid "InterfaceLanguage"
-msgstr ""
+msgstr "Interface Language"
 
 #: mvp/editor/settings/ViewSettingsWindow.cpp:85
 #, c-format
@@ -463,7 +463,7 @@ msgstr "Close"
 
 #: mvp/editor/settings/ViewSettingsWindow.h:61
 msgid "SettingsWindow"
-msgstr ""
+msgstr "Settings"
 
 #: mvp/editor/settings/categories/OtherCategory.h:41
 msgid "OtherCategory"
@@ -489,7 +489,7 @@ msgstr "System"
 
 #: I18N.cpp:103
 msgid "AngleDegreeSymbol"
-msgstr ""
+msgstr "°"
 
 #: I18N.cpp:118
 msgid "SketchfabRelevancy"
@@ -529,98 +529,109 @@ msgstr "Oldest processed"
 
 #: I18N.cpp:131
 msgid "Any License"
-msgstr ""
+msgstr "Any License"
 
 #. translators: Description for Sketchfab License filter "Any License"
 #: I18N.cpp:133
 msgid "AnyLicenseDescription"
-msgstr ""
+msgstr "Ignore licenses"
 
 #: I18N.cpp:136
 msgid "Creative Commons: Attribution"
-msgstr ""
+msgstr "Creative Commons: Attribution"
 
 #. translators: Description for Sketchfab License filter "Creative Commons: Attribution"
 #: I18N.cpp:138
 msgid "Author must be credited. Commercial use is allowed."
-msgstr ""
+msgstr "Author must be credited. Commercial use is allowed."
 
 #: I18N.cpp:140
 msgid "Creative Commons: ShareAlike"
-msgstr ""
+msgstr "Creative Commons: ShareAlike"
 
 #: I18N.cpp:143
 msgid ""
 "Author must be credited. Modified versions must have the same license. "
 "Commercial use is allowed."
 msgstr ""
+"Author must be credited. Modified versions must have the same license. "
+"Commercial use is allowed."
 
 #: I18N.cpp:145
 msgid "Creative Commons: NoDerivatives"
-msgstr ""
+msgstr "Creative Commons: NoDerivatives"
 
 #: I18N.cpp:148
 msgid ""
 "Author must be credited. Modified versions can not be distributed. "
 "Commercial use is allowed."
 msgstr ""
+"Author must be credited. Modified versions can not be distributed. "
+"Commercial use is allowed."
 
 #: I18N.cpp:150
 msgid "Creative Commons: NonCommercial"
-msgstr ""
+msgstr "Creative Commons: NonCommercial"
 
 #. translators: Description for Sketchfab License filter "Creative Commons: NonCommercial"
 #: I18N.cpp:152
 msgid "Author must be credited. No commercial use."
-msgstr ""
+msgstr "Author must be credited. No commercial use."
 
 #: I18N.cpp:154
 msgid "Creative Commons: NonCommercial-ShareAlike"
-msgstr ""
+msgstr "Creative Commons: NonCommercial-ShareAlike"
 
 #: I18N.cpp:157
 msgid ""
 "Author must be credited. No commercial use. Modified versions must have the "
 "same license."
 msgstr ""
+"Author must be credited. No commercial use. Modified versions must have the "
+"same license."
 
 #: I18N.cpp:159
 msgid "Creative Commons: NonCommercial-NoDerivatives"
-msgstr ""
+msgstr "Creative Commons: NonCommercial-NoDerivatives"
 
 #: I18N.cpp:162
 msgid ""
 "Author must be credited. No commercial use. Modified versions can not be "
 "distributed."
 msgstr ""
+"Author must be credited. No commercial use. Modified versions can not be "
+"distributed."
 
 #: I18N.cpp:164
 msgid "Creative Commons: Zero"
-msgstr ""
+msgstr "Creative Commons: Zero"
 
 #. translators: Description for Sketchfab License filter "Creative Commons: Zero"
 #: I18N.cpp:166
 msgid "Credit is not mandatory. Commercial use is allowed."
-msgstr ""
+msgstr "Credit is not mandatory. Commercial use is allowed."
 
 #: I18N.cpp:168
 msgid "Editorial"
-msgstr ""
+msgstr "Editorial"
 
 #: I18N.cpp:171
 msgid ""
 "Use only in connection with events that are newsworthy or of public interest"
 msgstr ""
+"Use only in connection with events that are newsworthy or of public interest"
 
 #: I18N.cpp:173
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #: I18N.cpp:176
 msgid ""
 "Under basic restrictions, use worldwide, on all types of media, commercially "
 "or not, and in all types of derivative works"
 msgstr ""
+"Under basic restrictions, use worldwide, on all types of media, commercially "
+"or not, and in all types of derivative works"
 
 #: I18N.cpp:180
 msgid "SketchfabMaterialAny"
@@ -628,7 +639,7 @@ msgstr "Any"
 
 #: I18N.cpp:181
 msgid "SketchfabMaterialSimple"
-msgstr ""
+msgstr "Simple"
 
 #: I18N.cpp:182
 msgid "SketchfabMaterialPBROnly"
