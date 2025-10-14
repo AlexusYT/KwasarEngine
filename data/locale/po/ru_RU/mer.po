@@ -7,14 +7,13 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-10-14 08:15+0000\n"
 "Last-Translator: AlexusYT <93870232+AlexusYT@users.noreply.github.com>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/kwasarengine/"
-"ui-strings/ru/>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/kwasarengine/ui-"
+"strings/ru/>\n"
 "Language: ru_RU\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural="
-"(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? "
-"1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Weblate 5.14-dev\n"
 
 #: mvp/treeObjectWindow/ViewObjectsTree.cpp:55
@@ -396,11 +395,11 @@ msgstr "Выберите инструмент, который нужно отк�
 msgid "Open or close the workspace tools"
 msgstr "Открыть или закрыть инструменты рабочего пространства"
 
-#: mvp/editor/EditorUi.cpp:119
+#: mvp/editor/EditorUi.cpp:121
 msgid "MenuFile"
 msgstr "Файл"
 
-#: mvp/editor/EditorUi.cpp:122
+#: mvp/editor/EditorUi.cpp:123
 msgid "MenuExit"
 msgstr "Выход"
 
