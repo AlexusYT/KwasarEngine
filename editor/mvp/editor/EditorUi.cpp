@@ -21,6 +21,8 @@
 
 #include "EditorUi.h"
 
+#include <KwasarEngine/context/Window.h>
+
 #include "CompressedFonts.h"
 #include "Editor.h"
 #include "imgui_impl_opengl3.h"
@@ -118,9 +120,7 @@ void EditorUi::updateUi() {
 		if (ImGui::BeginMenuBar()) {
 			if (ImGui::BeginMenu(tr("MenuFile"))) {
 				ImGui::Separator();
-				ImGui::BeginDisabled();
-				ImGui::MenuItem(tr("MenuExit"), "Alt+F4");
-				ImGui::EndDisabled();
+				if (ImGui::MenuItem(tr("MenuExit"), "Alt+F4")) getWindow()->setCloseRequest(true);
 				ImGui::EndMenu();
 			}
 			if (ImGui::BeginMenu(tr("MenuEdit"))) {
