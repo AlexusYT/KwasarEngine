@@ -5,11 +5,17 @@
 #
 msgid ""
 msgstr ""
-"Language: ru\n"
+"PO-Revision-Date: 2025-10-14 08:15+0000\n"
+"Last-Translator: AlexusYT <93870232+AlexusYT@users.noreply.github.com>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/kwasarengine/"
+"ui-strings/ru/>\n"
+"Language: ru_RU\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural="
+"(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? "
+"1 : 2);\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: mvp/treeObjectWindow/ViewObjectsTree.cpp:55
 msgid "ObjectName"
@@ -275,7 +281,7 @@ msgstr "Имени пользователя и пароля"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:103
 msgid "Use username and password from your Sketchfab.com account"
-msgstr "Используйте имя пользователя и пароль от вашего Sketchfab-аккаунта."
+msgstr "Используйте имя пользователя и пароль от вашего Sketchfab-аккаунта"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:105
 msgid "LoginWithAPIToken"
@@ -354,6 +360,7 @@ msgid "FilterAnimated"
 msgstr "Анимация"
 
 #: mvp/onlineImport/ViewOnlineImport.cpp:264
+#, fuzzy
 msgid "FilterHasSound"
 msgstr "Звук"
 
@@ -613,7 +620,7 @@ msgid ""
 "Use only in connection with events that are newsworthy or of public interest"
 msgstr ""
 "Использование только в связи с событиями, которые заслуживают освещения в "
-"печати или представляют общественный интерес."
+"печати или представляют общественный интерес"
 
 #: I18N.cpp:173
 msgid "Standard"
