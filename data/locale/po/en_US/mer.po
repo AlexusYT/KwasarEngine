@@ -397,11 +397,11 @@ msgstr "Select a tool to open..."
 msgid "Open or close the workspace tools"
 msgstr "Open or close the workspace tools"
 
-#: mvp/editor/EditorUi.cpp:119
+#: mvp/editor/EditorUi.cpp:121
 msgid "MenuFile"
 msgstr "File"
 
-#: mvp/editor/EditorUi.cpp:122
+#: mvp/editor/EditorUi.cpp:123
 msgid "MenuExit"
 msgstr "Exit"
 
